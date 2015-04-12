@@ -23,4 +23,4 @@ Optional
 [check] Customize the navigation bar.
 Walkthrough
 
-![My Image](https://github.com/bryanmclellan/tomatoes/tomatoesDemo.gif)
+![My Image](https://github.com/bryanmclellan/tomatoes/blob/master/tomatoesDemo.gif)
