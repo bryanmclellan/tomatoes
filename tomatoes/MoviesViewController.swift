@@ -104,6 +104,7 @@ class MoviesViewController: UIViewController, UITableViewDelegate, UITableViewDa
         
         if(searchText == ""){
             searchBar.resignFirstResponder()
+            searchActive = false
         }
         
         self.tableView.reloadData()
